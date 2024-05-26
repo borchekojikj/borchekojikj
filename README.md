@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-<img  alt="my stats" src="https://github-readme-stats.vercel.app/api?username=borchekojikj&show_icons=true"> </img>
+<img  alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=borchekojikj&show_icons=true">
+<img alt="top lang" align="right" width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&layout=compact"> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&layout=compact)
+
 <!--
 **borchekojikj/borchekojikj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
