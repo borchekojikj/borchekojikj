@@ -5,7 +5,7 @@
 
 <ul>
   <li>Proficient in front-end technologies: HTML, CSS, SCSS, Bootstrap 5, Tailwind CSS, JavaScript, jQuery, and AJAX</li>
-  <li>Backend development with PHP and Laravel</li>
+  <li>Backend development with PHP, Node.js and Laravel</li>
   <li>Experience with creating dynamic, responsive web applications and integrating APIs</li>
 </ul>
 
