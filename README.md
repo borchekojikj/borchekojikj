@@ -1,6 +1,6 @@
 
 ## 👋 Hi there! I'm Borche 🚀
-<p>I’m Borche👋, a passionate web developer with a knack for crafting dynamic, user-friendly websites and applications.</p>
+<p>A passionate web developer with a knack for crafting dynamic, user-friendly websites and applications.</p>
 <p>I am a mechanical engineer with over two years of experience in management roles. In the past year and a half, I have focused intensively on software development, immersing myself in the necessary tools and software engineering principles to transition into a software engineering career.</p>
 <p>To build a strong technical foundation, I attended Full Stack Academy and developed numerous personal projects. This experience has equipped me with the essential skills and knowledge to excel in software engineering.</p>
 
