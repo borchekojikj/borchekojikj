@@ -10,8 +10,10 @@
   <li>Proficient in front-end technologies: HTML, CSS, SASS, Bootstrap 5, Tailwind CSS, JavaScript, jQuery, and AJAX</li>
   <li>Backend development with PHP, Node.js, Express, and Laravel</li>
   <li>Experience with databases: MySQL, MongoDB, and Mongoose</li>
+  <li>Knowledge of database design principles and E/R diagrams</li>
   <li>Familiar with Python for scripting and automation tasks</li>
-  <li>Skilled in creating dynamic, responsive web applications and integrating APIs</li>
+  <li>Skilled in creating dynamic, responsive web applications and integrating APIs, including RESTful APIs</li>
+  <li>Experience with Agile, Scrum, and Waterfall methodologies</li>
 </ul>
 
 <img  alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=borchekojikj&show_icons=true">
