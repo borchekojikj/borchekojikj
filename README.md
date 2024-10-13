@@ -16,8 +16,13 @@
   <li>Experience with Agile, Scrum, and Waterfall methodologies</li>
 </ul>
 
-<img  alt="my stats" align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=borchekojikj&show_icons=true">
-<img alt="top lang" align="right" width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&layout=compact"> 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&langs_count=10&layout=compact&hide=html,css)
+
+
+
+
 
 
 
