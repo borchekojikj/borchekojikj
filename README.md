@@ -1,17 +1,20 @@
 
 ## 👋 Hi there! I'm Borche 🚀
-<p>A passionate web developer with a knack for crafting dynamic, user-friendly websites and applications.</p>
-<p>I am a mechanical engineer with over two years of experience in management roles. In the past year and a half, I have focused intensively on software development, immersing myself in the necessary tools and software engineering principles to transition into a software engineering career.</p>
-<p>To build a strong technical foundation, I attended Full Stack Academy and developed numerous personal projects. This experience has equipped me with the essential skills and knowledge to excel in software engineering.</p>
+<p>A web developer with a passion for building dynamic, user-friendly websites and applications — and a background that brings a unique edge to every project I take on.</p>
+<p>💼 I started my career as a mechanical engineer, gaining over two years of experience in team leadership and project management. That hands-on, problem-solving mindset naturally led me to tech — and for the past 18 months, I’ve been fully immersed in software development.</p>
+<p>🎓 I completed a Full Stack Development program, where I built real-world projects that solidified my skills across the entire stack — from database design to frontend architecture.</p>
 
 
 
 <ul>
-  <li>Proficient in front-end technologies: HTML, CSS, SASS, Bootstrap 5, Tailwind CSS, JavaScript, jQuery, and AJAX</li>
-  <li>Backend development with PHP, Node.js, Express, and Laravel</li>
-  <li>Experience with databases: MySQL, MongoDB, and Mongoose</li>
+  <li>Frontend:
+React, TypeScript, JavaScript, Tailwind CSS, Bootstrap, HTML5, CSS3, Radix UI</li>
+  <li>Backend:
+Node.js, Express, PHP</li>
+  <li>Databases: MySQL, MongoDB, and Mongoose</li>
   <li>Knowledge of database design principles and E/R diagrams</li>
-  <li>Familiar with Python for scripting and automation tasks</li>
+  <li>Cloud & Tools:
+AWS (Certified Practitioner), Git, Postman, CI/CD basics</li>
   <li>Skilled in creating dynamic, responsive web applications and integrating APIs, including RESTful APIs</li>
   <li>Experience with Agile, Scrum, and Waterfall methodologies</li>
 </ul>
