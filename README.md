@@ -57,7 +57,7 @@ Let’s work together to bring your ideas to life with clean, maintainable code 
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&langs_count=10&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borchekojikj&langs_count=15&layout=compact&hide=html,css)
 
 ---
 
